@@ -1,5 +1,3 @@
-const http = require('http');
-const fs = require('fs');
 const cheerio = require('cheerio');
 const request = require('request');
 
