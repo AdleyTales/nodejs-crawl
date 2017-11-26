@@ -2,7 +2,8 @@
 
 > 需要的包： request cheerio
 
-- request:
+- request: 发送http请求，获取页面数据。
+- cheerio: 类似jquery的语法，操作dom，选取元素。
 
 ## 安装：
 
