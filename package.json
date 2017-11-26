@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-crawl",
+  "version": "1.0.0",
+  "description": "> 需要的包： request cheerio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdleyTales/nodejs-crawl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdleyTales/nodejs-crawl/issues"
+  },
+  "homepage": "https://github.com/AdleyTales/nodejs-crawl#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0"
+  }
+}
